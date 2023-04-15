@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayasooryakdeepak
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Python & Java
+- 🌱 I’m currently learning Python & Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
